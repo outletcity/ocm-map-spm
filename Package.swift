@@ -3,8 +3,8 @@ import PackageDescription
 
 let unityFrameworkXCFramework = Target.binaryTarget(
   name: "UnityFramework",
-  url: "https://github.com/outletcity/ocm-map-spm/releases/download/3.36.3/UnityFramework.xcframework.zip",
-  checksum: "2d9e3716bcb2777a9cb0d3e187bd3356cf7208c675af93f957eb63d86942011b"
+  url: "https://github.com/outletcity/ocm-map-spm/releases/download/3.37.0/UnityFramework.xcframework.zip",
+  checksum: "13597ff9443aed9d75ecc515931b34fdc88165bd877a9115d4cfc81f769819ba"
 )
 
 let package = Package(
